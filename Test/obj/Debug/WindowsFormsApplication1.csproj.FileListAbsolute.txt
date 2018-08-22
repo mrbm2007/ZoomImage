@@ -1,0 +1,11 @@
+d:\documents\visual studio 2015\Projects\ClassLibrary1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+d:\documents\visual studio 2015\Projects\ClassLibrary1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+d:\documents\visual studio 2015\Projects\ClassLibrary1\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+d:\documents\visual studio 2015\Projects\ClassLibrary1\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+d:\documents\visual studio 2015\Projects\ClassLibrary1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\ClassLibrary1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\ClassLibrary1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\ClassLibrary1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+d:\documents\visual studio 2015\Projects\ClassLibrary1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+d:\documents\visual studio 2015\Projects\ClassLibrary1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Documents\Visual Studio 2015\Projects\ClassLibrary1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.licenses
